@@ -3,7 +3,7 @@ import { Typography } from "@/components/ui/typography";
 
 const Index = () => {
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col min-h-screen bg-background">
       {/* Header */}
       <header className="relative h-[400px] flex items-center justify-center text-white">
         <img
